@@ -1,0 +1,6 @@
+{
+  "name": "TRUMPDAY1",
+  "description": "Inauguration, Presidency, Promises, Peace, Ukraine, Putin, Meeting, Cryptocurrency, Melania, Cabinet ",
+  "external_url": "https://pinata.cloud",
+  "image": "ipfs://bafkreiht5mhinyjglyzbroi7scxw2abzcbifqiewhy7tpusrz2655k43ty"
+}
